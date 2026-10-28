@@ -1,8 +1,8 @@
 # CMPUT 301: Lab 8 Participation Exercise
 
 ## Student Details
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Rana Mohib Usman`
+- **CCID:** `ranamohi`
 
 ## References and Resources
 List any resources used here, or simply put `N/A` if not applicable.
